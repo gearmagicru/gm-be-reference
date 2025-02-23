@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-reference/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Модуль панели управления "Справочники"
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-reference/refs/heads/main/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Модуль панели управления "Справочники"
 
 Модуль предназначен для организации управления статической информацией справочного характера в Панели управления GM Panel.
 
